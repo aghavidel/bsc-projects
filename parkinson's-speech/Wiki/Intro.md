@@ -2,7 +2,7 @@
 
 This project is based on the paper referenced in the README file, this paper aims to find parameters that are:
 - Easy to extract
-- Rubost against noise or computational errors
+- Robust against noise or computational errors
 - Contain effective information about the health conditions of the patient
 
 There are many candidates, the paper describes many in it's text. In the end we will use these parameters as features and train our classifier on these parameters. The best parameter is the one that can split the distributions of PD and healthy patients the most.
