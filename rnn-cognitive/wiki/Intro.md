@@ -1,5 +1,7 @@
 # Introduction
 
+https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1&mode=inline
+
 We all know the normal RNN network models. There are certainly problems when we try to make them deep (i.e. vanishing/exploding) so we came up with better models (like LSTMs) but rarely were we concerned with making them more consitent with biological models.
 
 If we are thinking in terms of performance, making neural networks adhere to biological models may not be a good idea at all! At some point we'll be adding complexity just for the sake of it, not for the sake of improving learning capacity. 
