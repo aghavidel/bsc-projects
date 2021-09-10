@@ -6,7 +6,7 @@ I implemented it when I took a cryptography course, this was the final project a
 - Implementing all cryptographic subroutines from scratch (AES, RSA, SHA, Diffie-Hellman, etc.)
 - Aggregate all of these projects into a secure messaging app using MTProto.
 
-The project did not allow the use of any other livbraries beside *java.lang*, including *BigInteger*. So we had to implement it by hand (a ludicrous requirement indeed, since speed becomes extremely important for cryptographic implementations).
+The project did not allow the use of any other libraries beside *java.lang*, including *BigInteger*. So we had to implement it by hand (a ludicrous requirement indeed, since speed becomes extremely important for cryptographic implementations).
 
 This project at the moment contains only the cryptographic subroutines and many unit tests for each of them. I am not allowed to release the protocol implementation since it was a joint effort. The big integer implementation is very messy and sluggish (even though it is the bulk of this project still!).
 
