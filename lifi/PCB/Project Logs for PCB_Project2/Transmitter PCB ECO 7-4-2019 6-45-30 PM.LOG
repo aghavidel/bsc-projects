@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=REF Pin=P1-4
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.9 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.9 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.9 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.9 New Footprint=AXIAL-0.3
+Added Pin To Net: NetName=REF Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM358N/NOPB
+Added Room: Name=Sheet1

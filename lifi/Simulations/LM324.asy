@@ -1,0 +1,30 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -32 32 -32 -32
+LINE Normal 32 0 -32 32
+LINE Normal 32 0 32 0
+LINE Normal -32 -32 32 0
+LINE Normal 0 -33 0 -16
+LINE Normal 0 32 0 16
+TEXT 7 26 Left 1 LM324
+TEXT -29 -16 Left 1 +
+TEXT -29 16 Left 1 -
+TEXT 4 -33 Left 1 +
+TEXT -14 33 Left 1 -
+SYMATTR Prefix X
+SYMATTR Value LM324
+SYMATTR ModelFile LM324.sub
+PIN -32 -16 NONE 8
+PINATTR PinName +
+PINATTR SpiceOrder 1
+PIN -32 16 NONE 8
+PINATTR PinName -1
+PINATTR SpiceOrder 2
+PIN 0 -32 NONE 8
+PINATTR PinName +1
+PINATTR SpiceOrder 3
+PIN 0 32 NONE 8
+PINATTR PinName -
+PINATTR SpiceOrder 4
+PIN 32 0 NONE 8
+PINATTR SpiceOrder 5

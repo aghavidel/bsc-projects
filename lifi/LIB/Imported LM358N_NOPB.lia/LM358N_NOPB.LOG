@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : LM358N_NOPB.LibPkg
+
+Section : F:\Downloaded_Documents\Sharif\EE\Princ_of_electronics\Project\LIB\LM358N_NOPB.lia
+    Section : PCB Library - LM358N_NOPB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM358N/NOPB On Line 141
+            Warning - 1 : Skipping Token attachedSymbol On Line 248
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM358N_NOPB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 130
+        EndSection
+
+        Section : Generating SCH Library - LM358N_NOPB.SchLib
+        EndSection
+    EndSection
+EndSection

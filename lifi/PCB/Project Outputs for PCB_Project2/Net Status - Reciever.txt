@@ -1,0 +1,45 @@
+Net Status Report
+Filename     : F:\Downloaded_Documents\Sharif\EE\Princ_of_electronics\Project\PCB\Reciever.PcbDoc
+Date         : 7/5/2019
+Time         : 1:16:02 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    Audio, Signal Layers Only, 34.6056mm
+    BP U1 +, Signal Layers Only, 3.8295mm
+    BP U1 -, Signal Layers Only, 34.7022mm
+    BP U2 +, Signal Layers Only, 35.6564mm
+    BP U2 -, Signal Layers Only, 130.0156mm
+    Data, Signal Layers Only, 76.4945mm
+    GND, Signal Layers Only, 253.5181mm
+    LP U1 +, Signal Layers Only, 42.2118mm
+    LP U1 -, Signal Layers Only, 36.5026mm
+    LP U1 out, Signal Layers Only, 143.7409mm
+    LP U2 +, Signal Layers Only, 24.7481mm
+    LP U2 -, Signal Layers Only, 42.4512mm
+    LP U2 out, Signal Layers Only, 73.3343mm
+    NetBP C1_2, Signal Layers Only, 12.0302mm
+    NetBP C3_2, Signal Layers Only, 6.2177mm
+    NetD1_1, Signal Layers Only, 2.298mm
+    NetD2_2, Signal Layers Only, 9.1043mm
+    NetD3_1, Signal Layers Only, 65.3421mm
+    NetD4_2, Signal Layers Only, 7.9546mm
+    NetD5_2, Signal Layers Only, 27.0277mm
+    NetLP C1_1, Signal Layers Only, 14.6464mm
+    NetLP C3_2, Signal Layers Only, 20.3005mm
+    NetPD1_A, Signal Layers Only, 20.4123mm
+    NetPD1_C, Signal Layers Only, 12.0698mm
+    NetQ1_1, Signal Layers Only, 3.9879mm
+    NetQ6_3, Signal Layers Only, 4.9094mm
+    NetQ7_2, Signal Layers Only, 18.2855mm
+    NetQ9_1, Signal Layers Only, 19.4326mm
+    U4 -, Signal Layers Only, 93.9424mm
+    U4 out, Signal Layers Only, 94.9936mm
+    U5 +, Signal Layers Only, 86.8997mm
+    U5 -, Signal Layers Only, 123.301mm
+    U6 -, Signal Layers Only, 53.4022mm
+    U6 out, Signal Layers Only, 95.8991mm
+    U7 +, Signal Layers Only, 92.5356mm
+    VCC, Signal Layers Only, 201.0714mm
+    VEE, Signal Layers Only, 163.0787mm
+count : 37

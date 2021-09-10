@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : BPW34F.LibPkg
+
+Section : F:\Downloaded_Documents\Sharif\EE\Princ_of_electronics\Project\LIB\BPW34F.lia
+    Section : PCB Library - BPW34F.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token BPW34F On Line 131
+            Warning - 1 : Skipping Token attachedSymbol On Line 193
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*PHODET_BPW34F][Primary] associated with PCAD Component [BPW34F] has been renamed to PCB FootPrint [*PHODET_BPW34F_BPW34F(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - BPW34F.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 123
+        EndSection
+
+        Section : Generating SCH Library - BPW34F.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*PHODET_BPW34F][Primary] associated with PCAD Component [BPW34F] has been renamed to PCB FootPrint [*PHODET_BPW34F_BPW34F(Primary)].
+        EndSection
+    EndSection
+EndSection

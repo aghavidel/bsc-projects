@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : UA741CP.LibPkg
+
+Section : F:\Downloaded_Documents\Sharif\EE\Princ_of_electronics\Project\LIB\UA741CP.lia
+    Section : PCB Library - UA741CP.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token UA741CP On Line 201
+            Warning - 1 : Skipping Token attachedSymbol On Line 308
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - UA741CP.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 156
+        EndSection
+
+        Section : Generating SCH Library - UA741CP.SchLib
+        EndSection
+    EndSection
+EndSection

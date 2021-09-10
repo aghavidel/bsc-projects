@@ -1,0 +1,67 @@
+Circuit: * F:\Downloaded_Documents\Sharif\EE\Princ_of_electronics\Project\Simulations\sim.asc
+
+WARNING: Less than two connections to node DATA.  This node is used by A1.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.49501
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 5.50104
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 51.8939%
+Source Step = 53.7879%
+Source Step = 55.6818%
+Source Step = 57.5758%
+Source Step = 59.4697%
+vernier = 0.09375
+Source Step = 61.4583%
+Source Step = 64.2992%
+Source Step = 67.1402%
+Source Step = 69.9811%
+Source Step = 72.822%
+Source Step = 75.6629%
+vernier = 0.140625
+Source Step = 79.9242%
+Source Step = 84.1856%
+Source Step = 88.447%
+Source Step = 92.7083%
+Source Step = 96.9697%
+vernier = 0.210938
+Source stepping succeeded in finding the operating point.
+
+
+Date: Wed Jul 10 02:56:41 2019
+Total elapsed time: 33.526 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 467199
+traniter = 464714
+tranpoints = 207938
+accept = 159481
+rejected = 48457
+matrix size = 293
+fillins = 2657
+solver = Normal
+Thread vector: 35.0/17.0[5] 15.9/7.6[5] 12.8/8.0[5] 2.7/5.2[1]  2592/500
+Matrix Compiler1: 472.50 KB object code size  99.6/76.2/[34.6]
+Matrix Compiler2: 71.99 KB object code size  23.6/22.8/[5.7]
+
