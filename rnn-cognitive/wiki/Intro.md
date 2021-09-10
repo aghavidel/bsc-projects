@@ -1,6 +1,6 @@
 # Introduction
 
-![](https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1&mode=inline)
+<img src="https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1&mode=inline">
 
 We all know the normal RNN network models. There are certainly problems when we try to make them deep (i.e. vanishing/exploding) so we came up with better models (like LSTMs) but rarely were we concerned with making them more consitent with biological models.
 
