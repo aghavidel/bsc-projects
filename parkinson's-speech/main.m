@@ -1,8 +1,4 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Speech processing course Final Project                                   
-% Instructor: Dr. Shahrokh Ghaemmaghami
-% Code Writer: Arvin Ghavidel (96110583)
-%
 % For detailed discription refer to the report.pdf file in the same
 % directory as this file.
 %
@@ -113,23 +109,3 @@ healthy_data = vals.Healthy;
 clc
 model = evaluate(pd_data, healthy_data);
 % saveas(gcf, './plots/final.png', 'png');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
