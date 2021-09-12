@@ -5,7 +5,7 @@ Our implementation is to be emulated in a scenario similar to the one in [this p
 
 This, being an assignment for a neroscience course, is trying to replicate this experiment with Q-Learning. This is a very old implementation and (as the name suggests) could use quite a bit of optimization, which I hope I found the time soon!
 
-Still, I believe the wiki might be of use to anyone trying to do the same thing, so I think this stilll might be usefull. You will find in this project:
+Still, I believe the wiki might be of use to anyone trying to do the same thing, so I think this stilll might be useful. You will find in this project:
 
 - The `Results` folder which is all the things I managed to get out of this project.
 - The file `impl.ipynb` which is the whole implementation.
