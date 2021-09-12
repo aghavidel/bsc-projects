@@ -37,7 +37,7 @@ $$
 
 The whole point of our learning process is estimating *Q*, so keep that in mind. From now on we refer to this table as the ***quality*** table.
 
-With that said, the whole process for learning *Q* is still a bit too hazy, when we start the process, we know literary nothing about the emulator, so no action really seems better than the other. Plus if our goal is to maximize the rewards, we need to make sure that we traverse to deepest layers of the graph, since the highes rewards could be in there afterall.
+With that said, the whole process for learning *Q* is still a bit too hazy, when we start the process, we know literally nothing about the emulator, so no action really seems better than the other. Plus if our goal is to maximize the rewards, we need to make sure that we traverse to deepest layers of the graph, since the highes rewards could be in there afterall.
 
 So, why not *pick random actions until we learn something*?
 
@@ -54,7 +54,7 @@ And here is where the problem starts:
 
 This is where the *deep* part in the title of the algortihm comes to the rescue.
 
-Instead of literary creating a table for Q, we try to encode most of it in a neural network. Of course, there is the problem of how we would estimate the required capacity of the network, but that is the case in literary any learning problem so assume that we'll just brute force it later.
+Instead of literally creating a table for Q, we try to encode most of it in a neural network. Of course, there is the problem of how we would estimate the required capacity of the network, but that is the case in literally any learning problem so assume that we'll just brute force it later.
 
 So, we should equip our agent with some decision making network, preferably a recurrent one to keep the encoding of the levels in the tree (which do obey some order due to their nature).
 
